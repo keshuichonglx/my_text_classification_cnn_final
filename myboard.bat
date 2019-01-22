@@ -1,0 +1,1 @@
+tensorboard --logdir=E:\competition\SMP2018\my_text_classification_cnn_old_for_com\res\mod\cnn\tensorboard
